@@ -1,4 +1,4 @@
-libsignal-node
+node-libsignal
 ========
 Signal protocol implementation for Node.js based on
 [libsignal-protocol-javascript](https://github.com/WhisperSystems/libsignal-protocol-javascript).
