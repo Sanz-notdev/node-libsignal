@@ -1,5 +1,5 @@
 {
-  "name": "@Sanz-notdev/node-libsignal",
+  "name": "@mdroomvien/libsignal-node",
   "version": "2.2.4",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "repository": "Sanz-notdev/node-libsignal",
